@@ -1,0 +1,30 @@
+{
+  "name": "es6-project-template",
+  "version": "1.0.0",
+  "description": "babel webpack npm project",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/js -w -d dist/js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo3420/es6-project-template.git"
+  },
+  "keywords": [
+    "template",
+    "ES6"
+  ],
+  "author": "jojo3420",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo3420/es6-project-template/issues"
+  },
+  "homepage": "https://github.com/jojo3420/es6-project-template#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "@babel/preset-env": "^7.7.1"
+  }
+}
