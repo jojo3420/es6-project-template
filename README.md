@@ -44,3 +44,13 @@
 # 2가지 방법 
 # 1> bundle.js 에 css 코드 추가 
 # 2> 별도의 style.css 파일 생성 
+
+
+# ESLint Fix 단축키 변경 권유 
+# 설정-keymap-ESLint 검색하여 Fix ESLint Problems 단축키 추가
+# cmd+option+control +L 추천
+
+# tab intent 변경 : 4 -> 2 
+# 설정-Edit-Code Style-Javascript Tab 변경 
+ 
+
