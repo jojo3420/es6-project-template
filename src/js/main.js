@@ -23,9 +23,3 @@ console.log('Object.assign():', { x: 1, y: 2 });
 
 // polyfill 이 필요한 코드 : Array.from()
 console.log('Array.from(): ', Array.from([1, 2, 3], (v) => v + v));
-
-
-const test = () => {
-  console.log('test');
-};
-test();
