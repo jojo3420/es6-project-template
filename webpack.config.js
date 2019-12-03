@@ -18,9 +18,9 @@ module.exports = {
     filename: 'js/bundle.js'
   },
 
-  devServer: {
-    contentBase: './dist'
-  },
+  // devServer: {
+  //   contentBase: './dist'
+  // },
 
   // 플러그인 (plugins): 부가적인 기능들을 플러그인에 추가할 수 있다. 이러한 패키지들을 잘 활용하면 효과적으로 번들링할 수 있다.
   plugins: [
